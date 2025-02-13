@@ -7,6 +7,7 @@ Computer Science
    :maxdepth: 2
    :numbered:
 
-   TermsDictionary.md
+   OOP.md
    DesignPattern.md
+   
 
