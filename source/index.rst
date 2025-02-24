@@ -4,7 +4,7 @@ Computer Science
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered:
 
    OOP.md
